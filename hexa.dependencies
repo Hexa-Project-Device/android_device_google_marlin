@@ -7,7 +7,7 @@
   },
   {
     "remote":      "github",
-    "repository": "LineageOS/android_kernel_google_marlin",
+    "repository": "PureNexusProject/android_kernel_google_marlin",
     "target_path": "kernel/google/marlin",
 	"revision":    "cm-14.1"
   },
