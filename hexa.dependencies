@@ -13,8 +13,8 @@
   },
   {
     "remote":      "github",
-    "repository": "Team-OctOS-Devices/proprietary_vendor_google_devices",
-    "target_path": "vendor/google_devices",
-	"revision":    "aosp-7.1.1"
+    "repository": "Hexa-Project-Device/proprietary_vendor_google",
+    "target_path": "vendor/google",
+	"revision":    "cm-14.1"
   }
 ]
