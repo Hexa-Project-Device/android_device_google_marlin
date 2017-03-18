@@ -9,7 +9,7 @@
     "remote":      "github",
     "repository": "PureNexusProject/android_kernel_google_marlin",
     "target_path": "kernel/google/marlin",
-	"revision":    "android-7.1"
+	"revision":    "n-mr1"
   },
   {
     "remote":      "github",
